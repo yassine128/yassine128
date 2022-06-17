@@ -1,16 +1,28 @@
-### ![](https://komarev.com/ghpvc/?username=yassine128)
+<img src="https://raw.githubusercontent.com/eliasnorrby/eliasnorrby/master/waves.svg" width="100%" height="150">
 
-<!--
-**yassine128/yassine128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Yassine</h1>
 
-Here are some ideas to get you started:
+<p align="center">I like building applications & solving problems.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I'm excited about...</p>
+
+<p align="center">
+  <code>Python</code>
+  <code>Machine Learning</code>
+  <code>Deep Learning</code>
+  <code>Django</code>
+  <code>git</code>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassine128&show_icons=true&count_private=true&theme=slateorange&hide_border=true" width=400>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yassine128&theme=slateorange&hide_border=true" width=400>
+</p>
+
+<!---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnorrby&theme=slateorange&layout=compact" width = 400>
+</p>
+--->
