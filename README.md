@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/eliasnorrby/eliasnorrby/master/waves.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/yassine128/yassine128/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi 👋, I'm Yassine</h1>
 
