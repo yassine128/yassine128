@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yassine</h1>
 
-<p align="center">I like building applications & solving problems.</p>
+<p align="center">Computer Engineering student</p>
 
 <p align="center">I'm excited about...</p>
 
@@ -10,7 +10,7 @@
   <code>Python</code>
   <code>Machine Learning</code>
   <code>Deep Learning</code>
-  <code>Django</code>
+  <code>Mathematics</code>
   <code>git</code>
 </p>
 
