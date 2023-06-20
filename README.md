@@ -1,7 +1,7 @@
 <h1 class="neon">Yassine Seddaoui</h1>
 
 
-Heya! I'm Yassine Seddaoui.
+Hey! I'm Yassine Seddaoui.
 
  [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://yassine-seddaoui-portfolio.netlify.app/)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-seddaoui-a91110162/)
