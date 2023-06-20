@@ -1,28 +1,23 @@
-<img src="https://raw.githubusercontent.com/yassine128/yassine128/master/waves.svg" width="100%" height="150">
+<img src="https://github.com/yassine128/images/Headline.png" width="600">
 
-<h1 align="center">Hi 👋, I'm Yassine</h1>
 
-<p align="center">Computer Engineering student</p>
+Heya! I'm Yassine Seddaoui.
 
-<p align="center">I'm excited about...</p>
+ [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://yassine-seddaoui-portfolio.netlify.app/)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-seddaoui-a91110162/)
+ [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yassineseddaoui@gmail.com)
 
-<p align="center">
-  <code>Python</code>
-  <code>Machine Learning</code>
-  <code>Deep Learning</code>
-  <code>Mathematics</code>
-  <code>git</code>
-</p>
+<h3><b><u>Computer Engineering Student 💻</u></b></h3>
 
----
+I code websites, Video Game Drivers ⚙ and Injectors 💉. I have extensive experience working frameworks, tools, and languages. I am experienced in 9 programming languages. 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine128&show_icons=true&count_private=true&theme=slateorange&hide_border=true" width=400>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yassine128&theme=slateorange&hide_border=true" width=400>
-</p>
+- 👁️ [PolyBlind](https://github.com/yassine128/PolyBlind): Website made during a hackaton to help blind people read
+- 🤖 [Embeded Systems](https://github.com/Projet-Integrateur-145146): Final project of my first year of engineering @ polytechnique montreal
+- 👾 [Covid Bot](https://github.com/yassine128/Covid-19-Bot): A discord bot used to predict % of deaths caused by COVID-19
 
-<!---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnorrby&theme=slateorange&layout=compact" width = 400>
-</p>
---->
+<h3><b><u>Malware Dev 🔒</u></b></h3>
+
+- 🔫 [Assault Cube Cheat Driver](#): Coming Soon, learning how to make an internal cheat for a video game
+- 💉 [Injector](#): Coming Soon, ShellCode Injector, DLL Injector and more
+
+</details>
