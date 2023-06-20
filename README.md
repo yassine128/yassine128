@@ -1,4 +1,4 @@
-<img src="https://github.com/yassine128/images/Headline.png" width="600">
+<img src="https://github.com/yassine128/yassine128/blob/main/images/Headline.png" width="600">
 
 
 Heya! I'm Yassine Seddaoui.
