@@ -17,6 +17,7 @@ I code websites, Video Game Drivers ⚙ and Injectors 💉. I have extensive exp
 
 <h3><b><u>Malware Dev 🔒</u></b></h3>
 
+Learning how to create malware (for educational purposes only).
 - 🔫 [Assault Cube Cheat Driver](#): Coming Soon, learning how to make an internal cheat for a video game
 - 💉 [Injector](#): Coming Soon, ShellCode Injector, DLL Injector and more
 
