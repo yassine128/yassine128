@@ -1,4 +1,4 @@
-<img src="https://github.com/yassine128/yassine128/blob/main/images/Headline.png" width="600">
+<h1 class="neon">Yassine Seddaoui</h1>
 
 
 Heya! I'm Yassine Seddaoui.
@@ -21,3 +21,12 @@ I code websites, Video Game Drivers ⚙ and Injectors 💉. I have extensive exp
 - 💉 [Injector](#): Coming Soon, ShellCode Injector, DLL Injector and more
 
 </details>
+
+<style>
+    .neon {
+      color: #fff;
+      text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #FF0, 0 0 40px #FF0, 0 0 50px #FF0, 0 0 60px #FF0;
+      font-size: 48px;
+      font-family: 'Arial', sans-serif;
+    }
+</style>
