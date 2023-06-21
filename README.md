@@ -9,7 +9,7 @@ Hey! I'm Yassine Seddaoui.
 
 <h3><b><u>Computer Engineering Student 💻</u></b></h3>
 
-I code websites, Video Game Drivers ⚙ and Injectors 💉. I have extensive experience working frameworks, tools, and languages. I am experienced in 9 programming languages. 
+I code websites, injectors 💉 and do reverse engineering ⚙. I have extensive experience working frameworks, tools, and languages. I am experienced in 9 programming languages. 
 
 - 👁️ [PolyBlind](https://github.com/yassine128/PolyBlind): Website made during a hackaton to help blind people read
 - 🤖 [Embeded Systems](https://github.com/Projet-Integrateur-145146): Final project of my first year of engineering @ polytechnique montreal
