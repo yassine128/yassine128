@@ -12,13 +12,13 @@ Hey! I'm Yassine Seddaoui.
 I code websites, injectors 💉 and do reverse engineering ⚙. I have extensive experience working frameworks, tools, and languages. I am experienced in 9 programming languages. 
 
 - 👁️ [PolyBlind](https://github.com/yassine128/PolyBlind): Website made during a hackaton to help blind people read
-- 🤖 [Embeded Systems](https://github.com/Projet-Integrateur-145146): Final project of my first year of engineering @ polytechnique montreal
+- 🤖 [Embeded Systems](https://github.com/Projet-Integrateur-145146): Final project of my first year of engineering
 - 👾 [Covid Bot](https://github.com/yassine128/Covid-19-Bot): A discord bot used to predict % of deaths caused by COVID-19
 
 <h3><b><u>Malware Dev 🔒</u></b></h3>
 
 Learning how to create malware (for educational purposes only).
-- 🔫 [Assault Cube Cheat DLL](#): Coming Soon, learning how to make an internal cheat for a video game
+- 🔫 [Internal Cheat](https://github.com/yassine128/InternalCheats): Internal cheat for a video game
 - 💉 [Injector](#): Coming Soon, ShellCode Injector, DLL Injector and more
 
 </details>
