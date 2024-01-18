@@ -8,7 +8,7 @@ Hey! I'm Yassine Seddaoui.
  [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yassineseddaoui@gmail.com)
 
 <h3><b><u>Currently Developing  💻</u></b></h3>
-- 🔺 [3D Rendering Engine](https://github.com/yassine128/3D-Engine): 3D rendering engine using OpenGL and C++ to display obj files imported from Blender.
+- 🔺3D rendering engine using OpenGL and C++ to display obj files imported from Blender.
 
 <h3><b><u>Computer Engineering Student 💻</u></b></h3>
 
