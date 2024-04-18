@@ -7,9 +7,6 @@ Hey! I'm Yassine Seddaoui.
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-seddaoui-a91110162/)
  [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yassineseddaoui@gmail.com)
 
-<h3><b><u>Currently Developing  💻</u></b></h3>
-- 🔺3D rendering engine using OpenGL and C++ to display obj files imported from Blender.
-
 <h3><b><u>Computer Engineering Student 💻</u></b></h3>
 
 I code websites, injectors 💉 and do reverse engineering ⚙. I have extensive experience working frameworks, tools, and languages. I am experienced in 9 programming languages. 
