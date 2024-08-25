@@ -9,7 +9,6 @@ Hey! I'm Yassine Seddaoui.
 
 <h3><b><u>Computer Engineering Student 💻</u></b></h3>
 
-I code websites, injectors 💉 and do reverse engineering ⚙. I have extensive experience working frameworks, tools, and languages. I am experienced in 9 programming languages. 
 
 - 🚗 [DAS](https://github.com/yassine128/DAS): Driving assistant system
 - 👁️ [PolyBlind](https://github.com/yassine128/PolyBlind): Website made during a hackaton to help blind people read
